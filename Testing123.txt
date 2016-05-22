@@ -1,0 +1,3 @@
+Hello,
+
+this is somekind of stupid test to do the excercise from softuni
